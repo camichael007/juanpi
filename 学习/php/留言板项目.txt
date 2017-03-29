@@ -1,0 +1,17 @@
+页面设计：
+register.php          注册页面 
+active.php            注册成功后激活邮件页面
+login.php             登录页面
+logout.php            退出登录页面
+w_topic.php           新建主题页面
+s_topic.php           创建主题成功页面,查看单条留言详情页
+center_mesaage.php     私人留言页面
+center_friend.php     好友设置页面
+members.php           网友页面
+center.php            个人中心页面
+m_center.php          修改个人资料页面
+
+
+
+
+
